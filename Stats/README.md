@@ -1,9 +1,11 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&custom_title=Mes%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&custom_title=Mes%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&layout=donut&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&layout=donut&langs_count=10&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AlexandreCoussediere&repo=AlexandreCoussediere%2Ftodo-list&show_owner=true&description_lines_count=3&theme=vue)](https://github.com/AlexandreCoussediere/todo-list)
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AlexandreCoussediere&repo=AlexandreCoussediere%2FTailwind-test&show_owner=true&description_lines_count=3&theme=vue)](https://github.com/AlexandreCoussediere/Tailwind-test)
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AlexandreCoussediere&repo=AlexandreCoussediere%2FProjets&show_owner=true&description_lines_count=3&theme=vue)](https://github.com/AlexandreCoussediere/Projets)
+
+ces statistiques viennent de `https://github-stats-extended.vercel.app/frontend`
